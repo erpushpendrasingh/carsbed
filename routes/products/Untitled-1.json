@@ -1,0 +1,424 @@
+[
+  {
+    "productBannerImages": [],
+    "maxQuantity": 1,
+    "_id": "66aa3c09406e1bb7a87b31e9",
+    "categoryId": "66a0e0b078583b9481b39f91",
+    "subCategoryId": {
+      "_id": "66aa3769406e1bb7a87b2efe",
+      "categoryId": "66a0e0b078583b9481b39f91",
+      "subCategoryName": "Scheduled Packages",
+      "subCategoryImage": "https://car-expert.s3.ap-south-1.amazonaws.com/1722717428055-Screenshot_2024-08-04-02-05-04-893_gomechanic.retail.png",
+      "createdAt": "2024-07-31T13:08:57.507Z",
+      "updatedAt": "2024-08-03T20:37:08.366Z",
+      "__v": 0
+    },
+    "productName": "standard service",
+    "productImage": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722431456455-gettyimages-1200967807-612x612.jpg",
+    "productBannerImage": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722431499637-images%20%281%29.jpg",
+    "highlights": [
+      {
+        "text": "6 Hrs Taken",
+        "icon": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722431659898-8370789.png",
+        "_id": "66aa3c09406e1bb7a87b31ea"
+      },
+      {
+        "text": "1000 Kms Warranty",
+        "icon": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722431683062-4400863.png",
+        "_id": "66aa3c09406e1bb7a87b31eb"
+      },
+      {
+        "text": "Every 10000 Kms Recommended",
+        "icon": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722431732197-25297.png",
+        "_id": "66aa3c09406e1bb7a87b31ec"
+      },
+      {
+        "text": "Doorstep Service",
+        "icon": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722431752195-75087.png",
+        "_id": "66aa3c09406e1bb7a87b31ed"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Is Recommended",
+        "value": "Recommended",
+        "_id": "66aa3c09406e1bb7a87b31ee"
+      },
+      {
+        "name": "Is Time",
+        "value": "60 Mins",
+        "_id": "66aa3c09406e1bb7a87b31ef"
+      },
+      {
+        "name": "Is Pick and Drop",
+        "value": "Pick and Drop Service",
+        "_id": "66aa3c09406e1bb7a87b31f0"
+      }
+    ],
+    "offerTag": [
+      {
+        "name": "Is Price Drop 1",
+        "value": "10% Additional off with certain time slots",
+        "_id": "66aa3c09406e1bb7a87b31f1"
+      },
+      {
+        "name": "Is Price Drop 2",
+        "value": "10% Additional off with membership",
+        "_id": "66aa3c09406e1bb7a87b31f2"
+      }
+    ],
+    "includedService": [
+      {
+        "name": "Essential Service",
+        "services": [
+          {
+            "title": "Engine Oil Replacement",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722431799648-gettyimages-1200967807-612x612.jpg",
+            "_id": "66aa3c09406e1bb7a87b31f4"
+          },
+          {
+            "title": "Oil Filter Change",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722431974592-gettyimages-171586540-612x612.jpg",
+            "_id": "66aa3c09406e1bb7a87b31f5"
+          },
+          {
+            "title": "Air Filter Change",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722431992134-mechanic-changing-the-air-filter-on-a-car-royalty-free-image-1594045393.jpg",
+            "_id": "66aa3c09406e1bb7a87b31f6"
+          },
+          {
+            "title": "Break Pad Cleaning",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722432011459-images%20%282%29.jpg",
+            "_id": "66aa3c09406e1bb7a87b31f7"
+          }
+        ],
+        "_id": "66aa3c09406e1bb7a87b31f3"
+      },
+      {
+        "name": "Performance Service",
+        "services": [
+          {
+            "title": "Coolant Topup",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722432046944-gettyimages-1200967807-612x612.jpg",
+            "_id": "66aa3c09406e1bb7a87b31f9"
+          },
+          {
+            "title": "Ac Filter Clean",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722432074267-mechanic-changing-the-air-filter-on-a-car-royalty-free-image-1594045393.jpg",
+            "_id": "66aa3c09406e1bb7a87b31fa"
+          },
+          {
+            "title": "Break Fuild TopUp",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722432099241-gettyimages-1200967807-612x612.jpg",
+            "_id": "66aa3c09406e1bb7a87b31fb"
+          },
+          {
+            "title": "Sprak Plug Clean",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722432129235-images%20%282%29.jpg",
+            "_id": "66aa3c09406e1bb7a87b31fc"
+          }
+        ],
+        "_id": "66aa3c09406e1bb7a87b31f8"
+      }
+    ],
+    "additionalServices": [
+      "Car Scanning",
+      "Wiper Fluid Replacement",
+      "Car Wash",
+      "Interior Polish",
+      "Exterior Wash",
+      "Rubbing Polish"
+    ],
+    "stepsAfterBooking": [
+      "When Order confirmed Dedicated Rm will Assin",
+      "Our Partner Call You and take time slot and appoinment",
+      "partner reached your home and start the work",
+      "partner complete the task and upload the car photo"
+    ],
+    "ratings": "4.4",
+    "dummyPriceMrp": "6027",
+    "dummyPriceActual": "4219",
+    "__v": 0,
+    "price": "4219",
+    "mrp": "6027"
+  },
+  {
+    "maxQuantity": 1,
+    "_id": "66acd2a6282fd6a4278da3b4",
+    "categoryId": "66a0e0b078583b9481b39f91",
+    "subCategoryId": {
+      "_id": "66aa3769406e1bb7a87b2efe",
+      "categoryId": "66a0e0b078583b9481b39f91",
+      "subCategoryName": "Scheduled Packages",
+      "subCategoryImage": "https://car-expert.s3.ap-south-1.amazonaws.com/1722717428055-Screenshot_2024-08-04-02-05-04-893_gomechanic.retail.png",
+      "createdAt": "2024-07-31T13:08:57.507Z",
+      "updatedAt": "2024-08-03T20:37:08.366Z",
+      "__v": 0
+    },
+    "productName": "dummy",
+    "productImage": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601820671-dzire-exterior-right-front-three-quarter-3.webp",
+    "productBannerImages": [
+      "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601827317-dzire-exterior-right-front-three-quarter-3.webp",
+      "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601832616-dzire-exterior-right-front-three-quarter-3.webp",
+      "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601837763-dzire-exterior-right-front-three-quarter-3.webp",
+      "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601843283-dzire-exterior-right-front-three-quarter-3.webp",
+      "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601848990-dzire-exterior-right-front-three-quarter-3.webp",
+      "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601854254-dzire-exterior-right-front-three-quarter-3.webp",
+      "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601859004-dzire-exterior-right-front-three-quarter-3.webp",
+      "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601864651-dzire-exterior-right-front-three-quarter-3.webp",
+      "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601869789-dzire-exterior-right-front-three-quarter-3.webp",
+      "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601876622-dzire-exterior-right-front-three-quarter-3.webp"
+    ],
+    "highlights": [
+      {
+        "text": "Dummy",
+        "icon": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601891684-dzire-exterior-right-front-three-quarter-3.webp",
+        "_id": "66acd2a6282fd6a4278da3b5"
+      },
+      {
+        "text": "Dummy",
+        "icon": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601899304-dzire-exterior-right-front-three-quarter-3.webp",
+        "_id": "66acd2a6282fd6a4278da3b6"
+      },
+      {
+        "text": "Dummy",
+        "icon": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601911818-dzire-exterior-right-front-three-quarter-3.webp",
+        "_id": "66acd2a6282fd6a4278da3b7"
+      },
+      {
+        "text": "Dummy",
+        "icon": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601918488-dzire-exterior-right-front-three-quarter-3.webp",
+        "_id": "66acd2a6282fd6a4278da3b8"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Dummy",
+        "value": "Dummy",
+        "_id": "66acd2a6282fd6a4278da3b9"
+      },
+      {
+        "name": "Dummy",
+        "value": "Dummy",
+        "_id": "66acd2a6282fd6a4278da3ba"
+      },
+      {
+        "name": "Dummy",
+        "value": "Dummy",
+        "_id": "66acd2a6282fd6a4278da3bb"
+      },
+      {
+        "name": "Dummy",
+        "value": "Dummy",
+        "_id": "66acd2a6282fd6a4278da3bc"
+      }
+    ],
+    "offerTag": [
+      {
+        "name": "Dummy",
+        "value": "Dummy1",
+        "_id": "66acd2a6282fd6a4278da3bd"
+      },
+      {
+        "name": "Dummy",
+        "value": "Dummy",
+        "_id": "66acd2a6282fd6a4278da3be"
+      },
+      {
+        "name": "Dummy",
+        "value": "Dummy",
+        "_id": "66acd2a6282fd6a4278da3bf"
+      },
+      {
+        "name": "Dummy",
+        "value": "Dummy",
+        "_id": "66acd2a6282fd6a4278da3c0"
+      },
+      {
+        "name": "Dummy",
+        "value": "Dummy",
+        "_id": "66acd2a6282fd6a4278da3c1"
+      },
+      {
+        "name": "Dummy",
+        "value": "Dummy",
+        "_id": "66acd2a6282fd6a4278da3c2"
+      }
+    ],
+    "includedService": [
+      {
+        "name": "Dummy",
+        "services": [
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601926621-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3c4"
+          },
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601933173-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3c5"
+          },
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601939825-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3c6"
+          },
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601948119-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3c7"
+          }
+        ],
+        "_id": "66acd2a6282fd6a4278da3c3"
+      },
+      {
+        "name": "Dummy",
+        "services": [
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601964464-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3c9"
+          },
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601972300-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3ca"
+          },
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601979198-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3cb"
+          },
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601985756-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3cc"
+          },
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722601993919-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3cd"
+          }
+        ],
+        "_id": "66acd2a6282fd6a4278da3c8"
+      },
+      {
+        "name": "Dummy",
+        "services": [
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722602002699-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3cf"
+          },
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722602008802-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3d0"
+          },
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722602015436-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3d1"
+          },
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722602021802-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3d2"
+          },
+          {
+            "title": "Dummy",
+            "image": "https://car-expert-admin.s3.ap-south-1.amazonaws.com/1722602039963-dzire-exterior-right-front-three-quarter-3.webp",
+            "_id": "66acd2a6282fd6a4278da3d3"
+          }
+        ],
+        "_id": "66acd2a6282fd6a4278da3ce"
+      }
+    ],
+    "additionalServices": [
+      "Dummy",
+      "Dummy",
+      "Dummy"
+    ],
+    "stepsAfterBooking": [
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy"
+    ],
+    "ratings": "2",
+    "dummyPriceMrp": "123",
+    "dummyPriceActual": "123",
+    "__v": 0,
+    "price": "123",
+    "mrp": "123"
+  },
+  {
+    "_id": "66b3b6fcb5e30a52fe52cf0c",
+    "categoryId": "66a0e0b078583b9481b39f91",
+    "subCategoryId": {
+      "_id": "66aa3769406e1bb7a87b2efe",
+      "categoryId": "66a0e0b078583b9481b39f91",
+      "subCategoryName": "Scheduled Packages",
+      "subCategoryImage": "https://car-expert.s3.ap-south-1.amazonaws.com/1722717428055-Screenshot_2024-08-04-02-05-04-893_gomechanic.retail.png",
+      "createdAt": "2024-07-31T13:08:57.507Z",
+      "updatedAt": "2024-08-03T20:37:08.366Z",
+      "__v": 0
+    },
+    "productName": "standard service-2",
+    "productImage": "https://example.com/image.jpg",
+    "productBannerImages": [
+      "https://example.com/banner1.jpg",
+      "https://example.com/banner2.jpg"
+    ],
+    "highlights": [
+      {
+        "text": "6 Hrs Taken",
+        "icon": "https://example.com/icon1.png",
+        "_id": "66b3b6fcb5e30a52fe52cf0d"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Is Recommended",
+        "value": "Recommended",
+        "_id": "66b3b6fcb5e30a52fe52cf0e"
+      }
+    ],
+    "offerTag": [
+      {
+        "name": "Is Price Drop 1",
+        "value": "10% Additional off with certain time slots",
+        "_id": "66b3b6fcb5e30a52fe52cf0f"
+      }
+    ],
+    "includedService": [
+      {
+        "name": "Essential Service",
+        "services": [
+          {
+            "title": "Engine Oil Replacement",
+            "image": "https://example.com/service1.jpg",
+            "_id": "66b3b6fcb5e30a52fe52cf11"
+          }
+        ],
+        "_id": "66b3b6fcb5e30a52fe52cf10"
+      }
+    ],
+    "additionalServices": [
+      "Car Scanning"
+    ],
+    "stepsAfterBooking": [
+      "When Order confirmed Dedicated Rm will Assign"
+    ],
+    "ratings": "4.4",
+    "dummyPriceMrp": "6027",
+    "dummyPriceActual": "4219",
+    "maxQuantity": 1,
+    "__v": 0,
+    "price": "4219",
+    "mrp": "6027"
+  }
+]

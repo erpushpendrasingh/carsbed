@@ -1,0 +1,57 @@
+const mongoose = require("mongoose");
+
+const fileSchema = new mongoose.Schema({
+ fileName: { type: String },
+ filePath: { type: String },
+ mimeType: { type: String },
+});
+
+const FranchiseSchema = new mongoose.Schema({
+ firstName: { type: String },
+ lastName: { type: String },
+ dob: { type: Date },
+ gender: { type: String },
+ contactNumber: { type: String },
+ alternativeContactNumber: { type: String },
+ email: { type: String },
+ address: { type: String },
+ additionalAddress: { type: String },
+ panNumber: { type: String },
+ documentType: { type: String },
+ documentNumber: { type: String },
+ companyName: { type: String },
+ companyType: { type: String },
+ companyAddress: { type: String },
+ businessContactNumber: { type: String },
+ businessDocumentType: { type: String },
+ businessDocumentNumber: { type: String },
+ accountName: { type: String },
+ accountNumber: { type: String },
+ ifscCode: { type: String },
+ accountType: { type: String },
+ branchName: { type: String },
+ bankName: { type: String },
+ franchiseType: { type: String },
+ franchiseApplicantName: { type: String },
+ franchisePincode: { type: String },
+ franchiseAreaName: { type: String },
+ franchiseCity: { type: String },
+ franchiseRadius: { type: String },
+ investmentAmount: { type: String },
+ registrationAmount: { type: String },
+ pendingAmount: { type: String },
+ qualityParameter: { type: String },
+ username: { type: String },
+ userEmail: { type: String },
+ password: { type: String },
+ currentProfession: { type: String },
+ franchiseReason: { type: String },
+ panUpload: { type: [fileSchema], default: [] },
+ aadharUpload: { type: [fileSchema], default: [] },
+ businessDocUpload: { type: [fileSchema], default: [] },
+ bankProofUpload: { type: [fileSchema], default: [] },
+ photoUpload: { type: [fileSchema], default: [] },
+});
+
+const FranchiseModel = mongoose.model("FranchiseModel", FranchiseSchema);
+module.exports = FranchiseModel;
